@@ -1,0 +1,34 @@
+<Titre> Rapport annuel
+<Titre1> Introduction
+Quaerat eius labore adipisci. Numquam eius amet dolor dolore velit etincidunt sit. Aliquam consectetur numquam dolore. Aliquam aliquam magnam numquam. Etincidunt ipsum velit dolorem quaerat.
+Numquam etincidunt adipisci adipisci. Consectetur aliquam eius numquam dolore voluptatem velit consectetur. Non amet dolore sed. Eius quisquam sed neque tempora est. Consectetur aliquam quaerat eius ut.
+<Titre1> Défis
+<Titre2> Nouvelles technologies
+* Non tempora velit non sed. Quiquia sed dolorem voluptatem sed. Porro dolorem modi voluptatem modi. Dolore voluptatem dolor sit dolore modi dolorem quiquia. Non consectetur etincidunt quaerat sit voluptatem consectetur.
+* Est neque dolor aliquam quisquam. Amet eius ut quaerat numquam labore non. Non etincidunt voluptatem dolor. Magnam velit magnam sit neque amet ipsum quisquam. Ut eius modi dolor.
+* Est dolor dolor numquam. Sit tempora dolorem aliquam velit sit quisquam quisquam. Magnam neque ipsum consectetur ut eius modi ut. Etincidunt neque dolor aliquam quiquia. Etincidunt adipisci tempora magnam.
+<Titre2> Expansion internationale
+<Titre3> Afrique
+Modi dolor consectetur sed quisquam. Tempora numquam quaerat magnam porro quisquam porro sit. Non labore est amet modi dolorem ipsum dolorem.
+<Titre3> Amérique
+Sit magnam dolore etincidunt est voluptatem. Ut consectetur est consectetur sed dolore ipsum consectetur. Eius tempora voluptatem porro labore velit.
+<Titre3> Asie
+Porro ut dolore aliquam velit est adipisci. Magnam dolorem magnam sed. Dolorem aliquam est dolor velit modi magnam.
+<Titre1> Ventes européennes
+Pays	Bulgarie	Suède	Slovénie	Tchéquie	France
+1er trimestre	340	423	477	832	483
+2e trimestre	44	303	614	368	963
+3e trimestre	974	823	43	844	594
+4e trimestre	154	486	272	11	957
+<Titre1> Budget de mise à niveau informatique
+Ville	Montant
+Rouen	13051 €
+Nantes	11874 €
+Le Havre	9757 €
+Amiens	5233 €
+Angers	7050 €
+<Titre1> Conclusions
+1. **Numquam** : Neque dolorem dolore velit labore est sit.
+2. **Dolore** : Quisquam ipsum quiquia dolorem velit non tempora.
+3. **Etincidunt** : Labore sed dolor magnam adipisci labore consectetur.
+<Table des matières>
