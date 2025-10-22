@@ -1,0 +1,34 @@
+<Titre> Rapport annuel
+<Titre1> Introduction
+Quaerat neque tempora quaerat. Dolore quisquam sed porro dolore. Labore aliquam est modi consectetur aliquam. Sed sit numquam porro non. Aliquam dolorem quiquia est dolore.
+Non ipsum velit ut aliquam. Non consectetur non quaerat consectetur dolor. Tempora etincidunt numquam dolore aliquam dolor. Neque neque sed numquam numquam ut. Non sed aliquam ut.
+<Titre1> Défis
+<Titre2> Nouvelles technologies
+* Sed magnam neque neque modi etincidunt. Quiquia quaerat quisquam neque quiquia aliquam est. Dolore eius tempora ut ipsum amet. Non labore non aliquam ut est voluptatem eius. Dolorem etincidunt modi magnam aliquam.
+* Tempora quisquam dolore numquam ut etincidunt eius. Magnam dolore labore labore. Consectetur numquam etincidunt labore quaerat eius velit voluptatem. Sit numquam sed numquam. Eius labore non velit sit voluptatem.
+* Quiquia dolore dolor non non sit aliquam. Magnam non quaerat eius labore est adipisci aliquam. Eius quisquam etincidunt labore labore sit dolor. Quaerat ut tempora numquam dolorem. Amet neque quiquia est.
+<Titre2> Expansion internationale
+<Titre3> Afrique
+Etincidunt labore est voluptatem sed aliquam. Quiquia dolor aliquam porro neque quaerat consectetur. Sed numquam sit numquam ut quaerat ipsum tempora.
+<Titre3> Amérique
+Voluptatem tempora consectetur porro neque dolore quiquia est. Consectetur porro ut magnam aliquam numquam. Sit magnam dolorem labore.
+<Titre3> Asie
+Est adipisci aliquam consectetur neque. Tempora sit dolorem magnam. Sed etincidunt quaerat magnam ipsum adipisci.
+<Titre1> Ventes européennes
+Pays	Grèce	Estonie	Slovénie	Hongrie	France
+1er trimestre	963	136	69	961	918
+2e trimestre	831	255	975	941	214
+3e trimestre	223	285	575	828	236
+4e trimestre	422	237	225	790	51
+<Titre1> Budget de mise à niveau informatique
+Ville	Montant
+Montpellier	13262 €
+Perpignan	9776 €
+Orléans	10651 €
+Metz	11027 €
+Lyon	12439 €
+<Titre1> Conclusions
+1. **Tempora** : Modi aliquam modi est.
+2. **Amet** : Ipsum velit ut modi consectetur amet quaerat.
+3. **Modi** : Quisquam eius consectetur sit tempora quiquia amet.
+<Table des matières>

@@ -1,0 +1,34 @@
+<Titre> Rapport annuel
+<Titre1> Introduction
+Etincidunt aliquam ut ipsum. Porro tempora non dolore. Ut quaerat voluptatem sit amet ipsum consectetur. Aliquam velit est dolore est. Adipisci est dolor labore.
+Quisquam velit magnam porro magnam est eius. Est tempora quiquia quaerat est eius. Aliquam modi amet consectetur quaerat dolore dolore. Consectetur numquam quisquam amet quaerat. Neque tempora quaerat porro ipsum.
+<Titre1> Défis
+<Titre2> Nouvelles technologies
+* Etincidunt numquam quisquam dolorem ut aliquam ipsum amet. Quaerat sit est modi quisquam. Non quiquia dolorem non numquam quiquia. Ipsum dolore dolor magnam. Consectetur consectetur quisquam tempora numquam voluptatem modi.
+* Numquam quiquia eius porro consectetur. Magnam aliquam est numquam magnam. Dolore adipisci quiquia modi modi modi non. Quaerat est dolor sed sed adipisci consectetur neque. Eius quaerat adipisci numquam ut dolore adipisci.
+* Est voluptatem dolore velit ipsum. Eius magnam non dolore. Voluptatem ipsum voluptatem dolore est quaerat neque neque. Aliquam aliquam aliquam consectetur numquam. Adipisci neque eius est.
+<Titre2> Expansion internationale
+<Titre3> Afrique
+Modi non neque non aliquam. Adipisci adipisci adipisci velit. Voluptatem dolor adipisci ut.
+<Titre3> Amérique
+Voluptatem ipsum est adipisci eius non quisquam dolor. Neque amet amet amet. Aliquam consectetur porro neque dolorem porro numquam.
+<Titre3> Asie
+Etincidunt sed adipisci non labore. Tempora porro voluptatem sit. Sed est quaerat dolore voluptatem dolore tempora.
+<Titre1> Ventes européennes
+Pays	Slovénie	Hongrie	Croatie	Portugal	Estonie
+1er trimestre	802	277	334	220	122
+2e trimestre	182	437	584	75	632
+3e trimestre	346	367	288	116	521
+4e trimestre	589	654	718	633	494
+<Titre1> Budget de mise à niveau informatique
+Ville	Montant
+Nantes	10939 €
+Lille	6618 €
+Limoges	5758 €
+Dijon	12617 €
+Rouen	7450 €
+<Titre1> Conclusions
+1. **Quisquam** : Adipisci porro magnam ut voluptatem est quiquia.
+2. **Etincidunt** : Dolor dolor aliquam quiquia eius.
+3. **Porro** : Neque adipisci ut dolore quisquam quaerat dolor.
+<Table des matières>

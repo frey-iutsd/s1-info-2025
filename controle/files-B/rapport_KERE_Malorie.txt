@@ -1,0 +1,34 @@
+<Titre> Rapport annuel
+<Titre1> Introduction
+Non sit non labore. Ut est voluptatem non velit. Adipisci velit quisquam labore ut sit sed dolore. Eius aliquam magnam ipsum non consectetur. Sed est non neque sed numquam aliquam porro.
+Dolorem tempora dolorem sit tempora numquam non neque. Non sed dolorem porro. Dolor porro dolor eius velit quisquam ipsum etincidunt. Ut ut eius labore consectetur. Porro quaerat sed labore eius.
+<Titre1> Défis
+<Titre2> Nouvelles technologies
+* Dolorem voluptatem ipsum magnam eius. Consectetur etincidunt numquam sit consectetur quiquia sed adipisci. Ut sit aliquam etincidunt amet. Aliquam modi sit dolore. Sed consectetur modi labore est quiquia numquam.
+* Ut amet ut adipisci amet labore sed adipisci. Magnam porro velit est quiquia non. Quaerat dolorem quaerat quisquam est numquam quaerat. Non sit quaerat consectetur. Voluptatem non dolor quisquam dolore voluptatem eius.
+* Tempora porro est sed quaerat. Adipisci aliquam dolore adipisci tempora. Amet sit magnam quisquam tempora. Labore aliquam consectetur velit numquam. Est voluptatem tempora porro voluptatem sed labore dolorem.
+<Titre2> Expansion internationale
+<Titre3> Afrique
+Aliquam voluptatem neque adipisci velit. Quisquam quisquam velit aliquam non modi sit sed. Neque non consectetur quisquam tempora consectetur.
+<Titre3> Amérique
+Sed adipisci ipsum quisquam tempora dolorem consectetur. Velit adipisci magnam aliquam numquam. Neque modi ipsum est adipisci dolor numquam.
+<Titre3> Asie
+Est sed porro etincidunt sit amet quisquam. Non tempora velit voluptatem. Adipisci labore adipisci ut non.
+<Titre1> Ventes européennes
+Pays	Slovaquie	Danemark	Irlande	Slovénie	Italie
+1er trimestre	196	252	375	107	368
+2e trimestre	44	230	929	261	157
+3e trimestre	190	437	694	210	127
+4e trimestre	991	312	766	939	85
+<Titre1> Budget de mise à niveau informatique
+Ville	Montant
+Orléans	7515 €
+Le Havre	5558 €
+Caen	9405 €
+Brest	6859 €
+Poitiers	5012 €
+<Titre1> Conclusions
+1. **Etincidunt** : Labore amet dolore ipsum dolorem.
+2. **Sed** : Sed etincidunt ipsum dolorem labore.
+3. **Quiquia** : Dolore quisquam consectetur numquam.
+<Table des matières>

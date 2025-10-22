@@ -1,0 +1,34 @@
+<Titre> Rapport annuel
+<Titre1> Introduction
+Ipsum magnam est porro quisquam quiquia quiquia. Numquam porro eius aliquam sit. Etincidunt dolorem dolor labore velit. Sit est modi eius eius dolor amet. Non quaerat quaerat quiquia quisquam non ut amet.
+Neque velit etincidunt velit tempora ut. Consectetur porro etincidunt voluptatem est. Quisquam dolorem velit quaerat. Non quisquam est ipsum labore ipsum est. Sit consectetur velit amet ut.
+<Titre1> Défis
+<Titre2> Nouvelles technologies
+* Tempora ipsum velit magnam. Consectetur amet tempora tempora. Quisquam dolorem labore voluptatem adipisci ut consectetur ut. Etincidunt porro tempora non quaerat labore tempora. Quisquam ipsum modi velit sit dolor ipsum.
+* Etincidunt amet quaerat consectetur etincidunt labore velit labore. Sed numquam non dolor voluptatem. Consectetur modi porro consectetur. Magnam porro dolore consectetur dolor velit dolor. Quaerat sit velit consectetur.
+* Neque labore ut voluptatem. Eius neque labore quiquia. Velit neque ut ipsum consectetur est. Porro magnam dolor modi ut velit tempora tempora. Dolor numquam porro aliquam adipisci non porro porro.
+<Titre2> Expansion internationale
+<Titre3> Afrique
+Magnam ipsum sed adipisci dolore. Magnam modi neque quiquia eius quaerat. Tempora non adipisci ut est voluptatem est non.
+<Titre3> Amérique
+Numquam quiquia voluptatem amet. Ipsum modi ipsum neque. Dolore tempora numquam magnam tempora sit.
+<Titre3> Asie
+Non quaerat ut quiquia adipisci porro tempora dolor. Neque voluptatem magnam tempora. Ut non magnam sit est.
+<Titre1> Ventes européennes
+Pays	Espagne	Slovaquie	Allemagne	Finlande	Suisse
+1er trimestre	311	787	821	83	581
+2e trimestre	779	19	53	104	611
+3e trimestre	614	841	446	566	753
+4e trimestre	827	572	916	676	211
+<Titre1> Budget de mise à niveau informatique
+Ville	Montant
+Nancy	14500 €
+Paris	13392 €
+Limoges	8508 €
+Dijon	5322 €
+Orléans	10251 €
+<Titre1> Conclusions
+1. **Dolorem** : Quisquam dolor consectetur quaerat tempora.
+2. **Numquam** : Sit etincidunt dolore magnam quisquam.
+3. **Tempora** : Ut neque dolor est.
+<Table des matières>
